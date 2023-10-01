@@ -32,4 +32,4 @@ My Quiz App is a mobile application developed in React Native that allows users 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BISHWAJEETK999/QUIZ-REACT-APP
+   git clone https://github.com/BISHWAJEETK999/quiz-app-api-react.git
